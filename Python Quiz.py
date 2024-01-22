@@ -1,7 +1,7 @@
 print("Welcome to python quiz game")
 score=0
 print("Which organization maintains and owns the copyright of the “Laws of Cricket”, a code for the cricket game?")
-print("1. International Cricket Council\n2. Marylebone Cricket Club\n3. Yorkshire Cricket Club\nD] Mason Cricket Club")
+print("1. International Cricket Council\n2. Marylebone Cricket Club\n3. Yorkshire Cricket Club\n4. Mason Cricket Club")
 ans=int(input("Your choice-enter option number : "))
 if(ans==2):
     print("Correct")
